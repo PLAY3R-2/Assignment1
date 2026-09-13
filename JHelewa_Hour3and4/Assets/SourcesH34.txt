@@ -1,0 +1,18 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url:https://www.magnific.com/free-photo/empty-brown-rusty-stone-metal-surface-texture_6029183.htm#fromView=keyword&page=1&position=1&uuid=01daaa23-22f4-4d31-961e-7df81196c0c0&track=ais_hybrid&query=Wrought+iron+texture
+
+Texture 2 source url:https://www.magnific.com/free-photo/beautiful-old-antique-dark-wooden-texture-surface-background-backdrop-copy-space_1131645.htm#fromView=keyword&page=1&position=0&uuid=8e702580-90db-4dd2-9280-b3c11c611593&track=ais_hybrid&query=Old+wood+texture
+
+texture 3: https://pngtree.com/freebackground/dark-stone-texture-black-brick-wall-background_13300781.html
+
+texture 4: https://opengameart.org/node/34727
+
+3D model source url: https://assetstore.unity.com/packages/3d/environments/historic/colonial-ship-70472
+

@@ -656,7 +656,7 @@ GameObject:
   - component: {fileID: 237745838}
   - component: {fileID: 237745843}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: Laser 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1018,7 +1018,7 @@ GameObject:
   - component: {fileID: 513107015}
   - component: {fileID: 513107020}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Laser 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1400,7 +1400,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 723076101}
   m_LocalRotation: {x: -0.25413445, y: 0.45994034, z: 0.13924561, w: 0.83933383}
-  m_LocalPosition: {x: 31.061623, y: -10.864105, z: 56.27318}
+  m_LocalPosition: {x: 98.159035, y: -8.596775, z: 33.72994}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1422,7 +1422,7 @@ GameObject:
   - component: {fileID: 734610780}
   - component: {fileID: 734610785}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: Laser 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2169,7 +2169,7 @@ GameObject:
   - component: {fileID: 1189675712}
   - component: {fileID: 1189675717}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: Laser 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3702,7 +3702,7 @@ GameObject:
   - component: {fileID: 2088806529}
   - component: {fileID: 2088806534}
   m_Layer: 0
-  m_Name: Capsule (2)
+  m_Name: Laser 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

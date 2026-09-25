@@ -1,0 +1,28 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+
+There are three finish zones, one that is safe and long, navigating the paths between the water, while the other two are shorter but have more obstacles like lasers or asteroids that take more skill to reach.
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+
+Laser turrets and asteroids are two new obstacles that block different paths. The turrets force the player to jump over them while the asteroids force the player to watch where they jump with the floating platforms as to not bump their head into them.
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+
+The player will have to jump over the lasers and also jump across floating platforms for one of the finish zones which floats over the pools of deadly water and avoiding hitting stray asteroids.
+
+D. Modify the sky and textures to create a world based on your theme.
+
+It is a giant asteroid in space with a purple sky and a spaceship, turrets for my laser obstacle, and a space station. I got these from the asset store (all assets used are linked below)
+https://assetstore.unity.com/packages/3d/props/weapons/low-poly-sci-fi-turrets-demo-333204
+https://assetstore.unity.com/packages/3d/vehicles/space/space-station-free-3d-asset-hdrp-urp-built-in-188734
+https://assetstore.unity.com/packages/3d/vehicles/space/space-shuttle-of-the-future-111392
+https://assetstore.unity.com/packages/3d/environments/sci-fi/3d-asteroid-pack-263841
+Asteroid environment texture: https://www.texturecan.com/details/136/
